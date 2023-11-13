@@ -1,0 +1,54 @@
+body
+{
+background-color: rgb(209, 0, 0);
+padding-top: 0px;
+}
+h1{
+
+    text-align: center;
+    color: wheat;
+    font-size: 30px;
+    
+}
+
+.bordona
+{
+   
+    max-width: 500px;
+    margin:10px auto;
+    height: 650px;
+    padding: 0px;
+    background-color: rgb(243, 0, 0);
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.164);
+
+
+
+
+}
+
+label{
+
+    padding: 10px;
+    font-size: 20px;
+    display: block;
+    width: 300px;
+    height: 20px;
+    border-radius: 100px;
+   
+    color:wheat;
+}
+
+input{
+
+    padding: 10px;
+    font-size: 20px;
+    display: block;
+    width: 300px;
+    height: 20px;
+    border-radius: 100px;
+   box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.164);
+    color:wheat;
+}
